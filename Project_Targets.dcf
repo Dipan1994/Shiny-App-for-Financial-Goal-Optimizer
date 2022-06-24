@@ -1,0 +1,13 @@
+name: Project_Targets
+title: Project_Targets
+username:
+account: dipanbiswas1994
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4461070
+bundleId: 4892885
+url: https://dipanbiswas1994.shinyapps.io/Project_Targets/
+when: 1628198552.50653
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Index Returns.xlsx
